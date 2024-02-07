@@ -1,5 +1,5 @@
-<h2> Olá, Sou o Matheus! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDZkMWZmdGRhd2I4Y2puczExMGZuejV5M3RvcjR2ajhueWVtMWl2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50"></h2>
-
+<h2> Olá, Sou o Matheus! 👋</h2>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFiNnk5OHRiYTR0MjdyMmlhejYzNTJ2OHFwazI4cTdvcDV3bHF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="230">
 
 ### 🔭 Um pouco sobre mim... | A little about me...  
 
